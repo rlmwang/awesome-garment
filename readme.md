@@ -61,7 +61,7 @@ Yu Shen, Junbang Liang, Ming C. Lin.
 
 - Deep Fashion 3d: images + 3d garment model + annotation
 [[Paper](https://arxiv.org/pdf/2003.12753.pdf)]
-[[Data](https://github.com/kv2000/deepFashion3D)]
+[[Data](https://github.com/kv2000/deepFashion3D)] <br/>
 Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images, 2020.
 Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, Xiaoguang Han.
 
