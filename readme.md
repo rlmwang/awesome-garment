@@ -15,7 +15,6 @@
 
 ### Translation
 - Sewing pattern + 3d body model --> 3d garment model
-[[Web](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/)]
 [[Paper](http://www.cs.umd.edu/~yushen/docs/ECCV2020.pdf)]
 [[Code](https://github.com/YuShen0118/Garment_Generation)]
 [[Data](https://drive.google.com/drive/folders/1GR9cut1Ip7T3R-nYnuWPJUSarX8MT_xY)] <br/>
@@ -53,9 +52,21 @@ Kota Yamaguchi, M Hadi Kiapour, Luis E Ortiz, Tamara L Berg.
 
 ## Datasets
 
+- Sewing pattern + 3d garment model
+[[Paper](http://www.cs.umd.edu/~yushen/docs/ECCV2020.pdf)]
+[[Code](https://github.com/YuShen0118/Garment_Generation)]
+[[Data](https://drive.google.com/drive/folders/1GR9cut1Ip7T3R-nYnuWPJUSarX8MT_xY)] <br/>
+GAN-based Garment Generation Using Sewing Pattern Images, ECCV 2020.
+Yu Shen, Junbang Liang, Ming C. Lin.
+
+- Deep Fashion 3d: images + 3d garment model + annotation
+[[Paper](https://arxiv.org/pdf/2003.12753.pdf)]
+[[Data](https://github.com/kv2000/deepFashion3D)]
+Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images, 2020.
+Heming Zhu, Yu Cao, Hang Jin, Weikai Chen, Dong Du, Zhangye Wang, Shuguang Cui, Xiaoguang Han.
+
 - Clothing Co-Parsing (CCP) 
 [[Data](https://github.com/bearpaw/clothing-co-parsing)]
-- 
 
 
 ## Contribute
